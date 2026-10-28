@@ -2,14 +2,13 @@
 
 Documento de arquitetura completo - modelo conceitual, logico,
 fisico, fluxo de dados, requisitos nao-funcionais e justificativa de
-stack - para uma organizacao fictícia de monitoramento ambiental
-multi-cliente ("AeroWatch"). **Este repositorio nao contem codigo**:
+stack - para uma organizacao fictícia de monitoramento da qualidade
+do ar multi-cliente ("AeroWatch"). **Este repositorio nao contem codigo**:
 e um exercicio deliberado de desenho de sistema, o tipo de
 entregavel produzido antes de qualquer linha de codigo existir.
 
-Projeto 09 de uma serie documentando minha transicao de Analista de
-Dados para Arquitetura de Dados - veja o [perfil
-completo](https://github.com/amanda-martins-data).
+Projeto 09 do meu portfolio de Engenharia e Arquitetura de Dados - veja o
+[perfil completo](https://github.com/amanda-martins-data).
 
 ## Por que um projeto sem codigo
 
@@ -23,12 +22,12 @@ pedido em processos seletivos para Arquiteto de Dados senior.
 
 ## O cenario
 
-**AeroWatch** e uma consultoria ambiental fictícia que opera
+**AeroWatch** e uma empresa fictícia que opera
 infraestrutura de monitoramento de qualidade do ar para multiplas
 prefeituras contratantes - hoje 12 clientes, com projecao de
-crescer para 50 em 24 meses. O cenario e propositalmente proximo da
-minha experiencia profissional real em consultoria ambiental, mas
-totalmente fictício.
+crescer para 50 em 24 meses. O cenario e fictício, mas
+propositalmente realista: multi-cliente, crescimento acelerado e
+isolamento de dados entre contratantes.
 
 ## Indice
 
